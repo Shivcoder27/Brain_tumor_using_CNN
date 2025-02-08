@@ -8,7 +8,7 @@ This repository contains the implementation of a deep learning model to detect b
 - **Real-Time Predictions**: Deployed with an intuitive interface for real-time detection.
 - **High Accuracy**: Achieved robust classification between tumor and non-tumor cases.
 
-## Dataset
+## Dataset (Contact for datasets)
 The model is trained on an MRI brain tumor dataset consisting of labeled images. The dataset is preprocessed to include:
 - Resizing images to a uniform size.
 - Normalizing pixel values for consistency.
